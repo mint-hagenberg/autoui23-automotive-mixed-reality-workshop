@@ -25,15 +25,14 @@ Start: TBD
 
 Schedule:
 
-- 15 min | Welcome, introduction round, and presentation of workshop goals.
-- 30 min | Pre-recorded videos and on-site presentation of ideas/reflection statements; Feedback.
-- 60 min | Session 1: Brainstorming and discussions on MR use cases in the automotive context, identifying challenges and opportunities according to our main goals.
-- 15 min | Coffee break. 
-- 60 min | Session 2: Brainstorming and discussions in groups. Each group will cover one of the main goals (transitional interfaces, multi-user MR, MR support for cyclists).
-- 30 min | Session 3: Brainstorming and collaborative sketching in groups. Participants will get to design/sketch MR
-applications. The outcome will be presented by each group followed by an engaging discussion.
-- 15 min | Presentation of group discussions.
-- Wrap-up and closing.
+| 15 min | Welcome, introduction round, and presentation of workshop goals.                                                                                                                                        |
+| 30 min | Pre-recorded videos and on-site presentation of ideas/reflection statements; Feedback.                                                                                                                  |
+| 60 min | Session 1: Brainstorming and discussions on MR use cases in the automotive context, identifying challenges and opportunities according to our main goals.                                               |
+| 15 min | Coffee break.                                                                                                                                                                                           |
+| 60 min | Session 2: Brainstorming and discussions in groups. Each group will cover one of the main goals (transitional interfaces, multi-user MR, MR support for cyclists).                                      |
+| 30 min | Session 3: Brainstorming and collaborative sketching in groups. Participants will get to design/sketch MR applications. The outcome will be presented by each group followed by an engaging discussion. |
+| 15 min | Presentation of group discussions.                                                                                                                                                                      |
+|        | Wrap-up and closing.                                                                                                                                                                                    |
 
 ## Participate
 Every AutoUI 2022 participant is invited to participate in the workshop sessions. Please make sure to register via the official conference registration system.
