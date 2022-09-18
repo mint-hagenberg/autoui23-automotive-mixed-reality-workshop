@@ -2,6 +2,7 @@
 
 ## News
 
+- 2022-09-18: Workshop material available online
 - 2022-08-07: Website with initial details up and running
 - 2022-07-22: Workshop proposal accepted at AutoUI 2022 Conference @ Seoul, South Korea
 
@@ -36,6 +37,9 @@ Schedule:
 
 ## Participate
 Every AutoUI 2022 participant is invited to participate in the workshop sessions. Please make sure to register via the official conference registration system.
+
+## Workshop Material
+[Slides](https://docs.google.com/presentation/d/143n9m0Ho7mO4MDjkV3E03pLA7FF2VcTg/edit?usp=sharing&ouid=110779045789797329515&rtpof=true&sd=true)
 
 ## Organizers
 
