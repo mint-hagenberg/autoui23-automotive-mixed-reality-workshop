@@ -2,9 +2,8 @@
 
 ## News
 
-- 2022-09-18: Workshop material available online
-- 2022-08-07: Website with initial details up and running
-- 2022-07-22: Workshop proposal accepted at AutoUI 2022 Conference @ Seoul, South Korea
+- 2023-08-05: Website with initial details up and running
+- 2023-07-22: Workshop proposal accepted at AutoUI 2023 Conference @ Ingolstadt, Germany
 
 ## Introduction
 
@@ -18,7 +17,7 @@ The target audience for this workshop are researchers and practitioners in the A
 
 ## Workshop Details
 
-Attendance: Hybrid, i.e., both in presence and virtual via Zoom and Miro
+Attendance: Presence
 
 Duration: Half-day (approx. 4 hours)
 
@@ -36,18 +35,17 @@ Schedule:
 |        | Wrap-up and closing.                                                                                                                                                                                    |
 
 ## Participate
-Every AutoUI 2022 participant is invited to participate in the workshop sessions. Please make sure to register via the official conference registration system.
+Every AutoUI 2023 participant is invited to participate in the workshop sessions. Please make sure to register via the official conference registration system.
 
 ## Workshop Material
 [Slides](https://docs.google.com/presentation/d/143n9m0Ho7mO4MDjkV3E03pLA7FF2VcTg/edit?usp=sharing&ouid=110779045789797329515&rtpof=true&sd=true)
 
 ## Organizers
 
-- Andreas Riegler is senior user experience researcher at University of Applied Sciences Upper Austria and HCI researcher and lecturer at Technische Hochschule Ingolstadt (THI), Germany. His research interests include windshield displays and human factors in driver-vehicle interfaces in automated driving. Further, he led the development and open-source release of a VR driving simulator \cite{riegler2019vrdrivingsim, riegler2019virtual} used for user studies in human-computer interaction to explore novel in-vehicle user experiences.
-- Andreas Riener is professor for Human-Machine Interaction and Virtual Reality at Technische Hochschule Ingolstadt (THI) with co-appointment at the CARISSMA Institute of Automated Driving. In 2017, he founded the interdisciplinary Human-Computer Interaction Group. His research interests include HF/ergonomics, adaptive UIs, driver state assessment, and trust/acceptance/ethics in automated driving. Andreas is steering committee co-chair of ACM AutomotiveUI and chair of the German ACM SIGCHI chapter.
-- Philipp Wintersberger is researcher at TU Wien (Vienna University of Technology), Austria. His research interests include trust in automated driving, intelligent user interfaces, and human-machine cooperation.
+- Andreas Riegler is senior user experience researcher at University of Applied Sciences Upper Austria and HCI researcher and lecturer at Technische Hochschule Ingolstadt (THI), Germany. His research interests include windshield displays and human factors in driver-vehicle interfaces in automated driving. Further, he led the development and open-source release of a VR driving simulator used for user studies in human-computer interaction to explore novel in-vehicle user experiences.
 - Tamara von Sawitzky is researcher and lecturer at Technische Hochschule Ingolstadt, Germany. Her research focuses on supporting cyclists through helmet-mounted AR interfaces to increase their situational awareness and (perceived) safety on the road.
 - Ye Eun Song is a research assistant at Technische Hochschule Ingolstadt, Germany and a master student at THI since 2021. Her research interests include user research in automated driving. Her current research is addressing the user journey of AR windshield displays in a VR simulator.
+- Gerald Ostermayer is professor at University of Applied Sciences Upper Austria, where he heads the degree program Automotive Computing and the research group Networks and Mobility. He has authored or coauthored around 80 technical papers in the fields of wireless sensing, mobile communications, and mobile and automotive computing in international conferences and journals. He holds seven patents in the field of mobile communications and wireless sensing.
 
 ---
 
